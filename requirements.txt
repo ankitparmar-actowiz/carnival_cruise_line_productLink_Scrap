@@ -1,0 +1,6 @@
+selenium
+selenium-wire
+undetected-chromedriver
+fake-useragent
+pyperclip
+curl_cffi
